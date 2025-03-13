@@ -29,5 +29,5 @@ Dane przechowywane są w **Microsoft SQL Server**, a całość działa w kontene
 
 ### 3️⃣ **Klonowanie Repozytorium**
 ```bash
-git clone https://github.com/twoj-user/twoje-repo.git
-cd twoje-repo
+git clone https://github.com/Dominik99d14/LogService.git
+cd LogService
