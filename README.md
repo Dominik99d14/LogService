@@ -1,4 +1,10 @@
-# 📝 LogService - System Zapisujący i Przeglądający Logi
+
+
+<p align="center">
+  <img src="LogService_Icon.png" alt="LogService Icon" width="150">
+</p>
+
+# LogService - System Zapisujący i Przeglądający Logi
 
 ## 📌 Opis Projektu
 **LogService** to mikroserwis API oparty na **ASP.NET Core 8.0**, który umożliwia zapisywanie i przeglądanie logów aplikacyjnych.  
