@@ -5,7 +5,7 @@
 </p>
 
 ## 📌 Opis Projektu
-**LogService** to nowoczesny mikroserwis napisany w **ASP.NET Core 8.0**, który umożliwia **zapisywanie, przeglądanie oraz filtrowanie logów aplikacyjnych**.  
+**LogService** to mikroserwis napisany w **ASP.NET Core 8.0**, który umożliwia **zapisywanie, przeglądanie oraz filtrowanie logów aplikacyjnych**.  
 
 Aplikacja jest w pełni konteneryzowana i działa w środowisku **Docker**, umożliwiając łatwe wdrażanie oraz skalowanie.  
 Dane przechowywane są w **Microsoft SQL Server**, a interfejs API obsługiwany jest przez **Swagger** oraz **Postman**.
