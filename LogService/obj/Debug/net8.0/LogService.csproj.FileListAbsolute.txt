@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Projekt\BetyKowala\Boty\LogService\LogService\obj\Debug\net8.0\LogService.sourcelink.json
