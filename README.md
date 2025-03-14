@@ -55,6 +55,5 @@ cd LogService
 W razie pytań lub sugestii, proszę o kontakt:
 
 <p align="left">
-  <img src="assets/email_icon.png" alt="Email Icon" width="20">
   <strong>Dominik Kowalczyk:</strong> <a href="mailto:dominik99d14@gmail.com">dominik99d14@gmail.com</a>
 </p>
